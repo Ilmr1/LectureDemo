@@ -12,6 +12,6 @@ public class AppTest {
 
     @Test
     public void subMeTest() {
-        assertEquals(10, app.subtractMe(11, 1));
+        assertEquals(10, app.subMe(11, 1));
     }
 }
